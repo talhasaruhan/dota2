@@ -7,7 +7,7 @@ Models:
 * train_predictive_model.py : model for predicting Dota 2 match outcomes using the pre-trained hero embeddings. Includes utilities.
 
 Other Utilities:
-* OpenDotaAPI.py : Partial Python API for OpenDota
+* OpenDotaAPI.py : Partial Python wrapper for OpenDota API
 
 Data:
 * pro_dump.p : professional match data until Aug. 17. In the format: [match_id, start_time, radiant_win, [heroes]]
